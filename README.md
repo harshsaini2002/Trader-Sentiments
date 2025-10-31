@@ -39,8 +39,8 @@
 
 **7. Average Trade Size vs. Market Sentiment**
    <img width="870" height="586" alt="Screenshot 2025-10-31 180441" src="https://github.com/user-attachments/assets/f676b1b5-3fd7-450d-9bf2-30de35100499" />\
-   •	Average trade size peaks during Fear (~$7800), suggesting higher capital deployment during uncertain times—possibly an attempt to capitalize on volatility.\
-   •	The lowest trade size occurs during Extreme Greed (~$3100), indicating cautious trading despite positive sentiment.\
+   •	Average trade size peaks during Fear ~7800, suggesting higher capital deployment during uncertain times—possibly an attempt to capitalize on volatility.\
+   •	The lowest trade size occurs during Extreme Greed ~3100, indicating cautious trading despite positive sentiment.\
    •	This pattern may suggest risk-averse scaling during overconfident markets and aggressive positioning during fearful ones.
 
 **🧠 Key Insights**\
