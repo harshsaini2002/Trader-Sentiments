@@ -26,31 +26,31 @@
    •	A slight increase in the buy ratio during Fear suggests traders may be more inclined to open long positions expecting a rebound.
 
 **5. Number of Trades vs. Market Sentiment**
-    <img width="747" height="582" alt="Screenshot 2025-10-31 180427" src="https://github.com/user-attachments/assets/50706544-52e2-440f-8368-d69c5d46c2f1" />
+    <img width="747" height="582" alt="Screenshot 2025-10-31 180427" src="https://github.com/user-attachments/assets/50706544-52e2-440f-8368-d69c5d46c2f1" />\
    •	The number of trades is highest during Greed and Fear phases, followed by Extreme Greed.\
    •	Neutral and Extreme Fear conditions show significantly fewer trades.\
    •	This implies traders are most active when emotions are strong (Greed or Fear), driven by volatility and perceived opportunity.
 
 **6. Win Rate vs. Market Sentiment**
-    <img width="872" height="585" alt="Screenshot 2025-10-31 180434" src="https://github.com/user-attachments/assets/2b1d6563-1603-42ae-ad35-122fb0b02383" />
+    <img width="872" height="585" alt="Screenshot 2025-10-31 180434" src="https://github.com/user-attachments/assets/2b1d6563-1603-42ae-ad35-122fb0b02383" />\
    •	The win rate is highest during Extreme Greed (~47%), followed by Fear (~42%).\
    •	It declines during Greed, Neutral, and is lowest during Extreme Fear (~36%).\
    •	Traders appear to perform best in optimistic (greedy) conditions, possibly due to stronger upward momentum and risk-taking.
 
 **7. Average Trade Size vs. Market Sentiment**
-   <img width="870" height="586" alt="Screenshot 2025-10-31 180441" src="https://github.com/user-attachments/assets/f676b1b5-3fd7-450d-9bf2-30de35100499" />
+   <img width="870" height="586" alt="Screenshot 2025-10-31 180441" src="https://github.com/user-attachments/assets/f676b1b5-3fd7-450d-9bf2-30de35100499" />\
    •	Average trade size peaks during Fear (~$7800), suggesting higher capital deployment during uncertain times—possibly an attempt to capitalize on volatility.\
    •	The lowest trade size occurs during Extreme Greed (~$3100), indicating cautious trading despite positive sentiment.\
    •	This pattern may suggest risk-averse scaling during overconfident markets and aggressive positioning during fearful ones.
 
-**🧠 Key Insights**
+**🧠 Key Insights**\
    •	Trader activity and performance are sentiment-sensitive: High emotional phases (Fear and Greed) lead to more trading activity and wider PnL variation.\
    •	Extreme Fear correlates with poor performance, while Extreme Greed yields better win rates and profit ratios.\
    •	Fearful markets attract larger trade sizes, suggesting traders perceive them as high-risk, high-reward opportunities.\
    •	No sentiment guarantees consistent profit, as medians remain near zero — reflecting the unpredictable nature of trading even in clear sentiment trends.
 
 **📈 Conclusion**
-**Market sentiment influences trading behavior more than trading outcomes.**
+**Market sentiment influences trading behavior more than trading outcomes.**\
    •	During Greed, traders are more active and moderately successful.\
    •	During Fear, traders take bigger risks but experience more volatility in results.\
    •	Extreme emotions (either direction) lead to higher variability, emphasizing the importance of risk management and discipline in sentiment-driven markets.
