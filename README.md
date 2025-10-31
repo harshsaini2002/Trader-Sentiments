@@ -1,14 +1,14 @@
 # Trader-Sentiments
 ### **📊 Market Sentiment Analysis Report**
 ##### **1. Closed PnL Distribution vs. Market Sentiment**
-    <img width="999" height="706" alt="Screenshot 2025-10-31 180348" src="https://github.com/user-attachments/assets/1787aa5a-a302-4787-a0dd-85335b2eb2f1" />\
+   •    <img width="999" height="706" alt="Screenshot 2025-10-31 180348" src="https://github.com/user-attachments/assets/1787aa5a-a302-4787-a0dd-85335b2eb2f1" />\
    •	The distribution of Closed PnL (Profit and Loss) shows high variability across all sentiment categories.\
    •	Outliers are present in every sentiment phase, suggesting that individual trades can lead to significant profits or losses regardless of market sentiment.\
    •	However, the median PnL remains close to zero for all sentiment levels, implying no consistent profitability trend driven solely by sentiment.\
    •	This indicates that trader performance depends more on individual strategy rather than market mood alone.
 
 ##### **2. Average PnL vs. Market Sentiment**
-    <img width="1496" height="833" alt="Screenshot 2025-10-31 180359" src="https://github.com/user-attachments/assets/aa500721-749e-4e9e-92c6-b29e6f9d25f2" />\
+   •    <img width="1496" height="833" alt="Screenshot 2025-10-31 180359" src="https://github.com/user-attachments/assets/aa500721-749e-4e9e-92c6-b29e6f9d25f2" />\
    •	The average daily PnL remains centered near zero across sentiments, with a few traders achieving high profits and some suffering losses.\
    •	Slightly higher positive outliers during Extreme Greed and Fear phases suggest potential for large wins when volatility is high.\
    •	Overall, sentiment extremes correlate with higher risk and variability, but not necessarily consistent profitability.
