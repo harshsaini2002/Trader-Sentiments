@@ -1,6 +1,6 @@
 # Trader-Sentiments
 **📊 Market Sentiment Analysis Report**\
-**1. Closed PnL Distribution vs. Market Sentiment**\
+**1. Closed PnL Distribution vs. Market Sentiment**
     <img width="999" height="706" alt="Screenshot 2025-10-31 180348" src="https://github.com/user-attachments/assets/1787aa5a-a302-4787-a0dd-85335b2eb2f1" />
    •	The distribution of Closed PnL (Profit and Loss) shows high variability across all sentiment categories.\
    •	Outliers are present in every sentiment phase, suggesting that individual trades can lead to significant profits or losses regardless of market sentiment.\
