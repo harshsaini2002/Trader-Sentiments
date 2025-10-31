@@ -50,7 +50,7 @@
    •	No sentiment guarantees consistent profit, as medians remain near zero — reflecting the unpredictable nature of trading even in clear sentiment trends.
 
 ### **📈 Conclusion**
-##### **Market sentiment influences trading behavior more than trading outcomes.**\
+##### **Market sentiment influences trading behavior more than trading outcomes.**
    •	During Greed, traders are more active and moderately successful.\
    •	During Fear, traders take bigger risks but experience more volatility in results.\
    •	Extreme emotions (either direction) lead to higher variability, emphasizing the importance of risk management and discipline in sentiment-driven markets.
